@@ -1,1 +1,1 @@
-Git can push and pull.
+Git remote clone push and pull.
